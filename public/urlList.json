@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "oldURL": "https://georgetown.org",
+    "newURL": "https://georgetowntexas.gov"
+  },
+  {
+    "id": 2,
+    "oldURL": "https://airport.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/transportation/georgetown_executive_airport_at_johnny_gantt_field"
+  },
+  {
+    "id": 3,
+    "oldURL": "https://pets.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/pets"
+  },
+  {
+    "id": 4,
+    "oldURL": "https://pets.georgetown.org/adoptions/",
+    "newURL": "https://georgetowntexas.gov/pets/adoption"
+  },
+  {
+    "id": 5,
+    "oldURL": "https://permits.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/development_services/permits"
+  },
+  {
+    "id": 6,
+    "oldURL": "https://planning.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/development_services/planning/"
+  },
+  {
+    "id": 7,
+    "oldURL": "https://permits.georgetown.org/residential-building-permits/",
+    "newURL": "https://georgetowntexas.gov/development_services/permits/residential_permits"
+  },
+  {
+    "id": 8,
+    "oldURL": "https://udc.georgetown.org/development-manual/",
+    "newURL": "https://georgetowntexas.gov/development_services/planning/information/development_manual"
+  },
+  {
+    "id": 9,
+    "oldURL": "https://historic.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/development_services/planning/historic_preservation/index.php"
+  },
+  {
+    "id": 10,
+    "oldURL": "https://georgetown.org/contact-us/",
+    "newURL": "https://www.georgetowntexas.gov/government/city_management/contact_us.php"
+  },
+  {
+    "id": 11,
+    "oldURL": "https://georgetown.org/department-listing/",
+    "newURL": "https://www.georgetowntexas.gov/government/city_management/contact_us.php"
+  },
+  {
+    "id": 12,
+    "oldURL": "https://government.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/government"
+  },
+  {
+    "id": 13,
+    "oldURL": "https://georgetown.org/open-records/",
+    "newURL": "https://www.georgetowntexas.gov/government/secretarys_office/locate_city_records.php"
+  },
+  {
+    "id": 14,
+    "oldURL": "https://finance.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/government/finance_and_purchasing/budget/index.php"
+  },
+  {
+    "id": 15,
+    "oldURL": "https://library.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/library/"
+  },
+  {
+    "id": 16,
+    "oldURL": "https://library.georgetown.org/events-calendar/",
+    "newURL": "https://georgetowntexas.gov/library/events"
+  },
+  {
+    "id": 17,
+    "oldURL": "https://library.georgetown.org/general-info/",
+    "newURL": "https://georgetowntexas.gov/library/services_and_facilities/library_services"
+  },
+  {
+    "id": 18,
+    "oldURL": "https://library.georgetown.org/kids/",
+    "newURL": "https://georgetowntexas.gov/library/events/kids"
+  },
+  {
+    "id": 19,
+    "oldURL": "https://parks.georgetown.org/georgetown-recreation-center/",
+    "newURL": "https://www.georgetowntexas.gov/parks/facilities_and_rentals/georgetown_recreation_center/index.php"
+  },
+  {
+    "id": 20,
+    "oldURL": "https://parks.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/parks"
+  },
+  {
+    "id": 21,
+    "oldURL": "https://parks.georgetown.org/blue-hole/",
+    "newURL": "https://georgetowntexas.gov/business_detail_T22_R69.php"
+  },
+  {
+    "id": 22,
+    "oldURL": "https://parks.georgetown.org/gareypark",
+    "newURL": "https://www.georgetowntexas.gov/parks/garey_park/index.php"
+  },
+  {
+    "id": 23,
+    "oldURL": "https://parks.georgetown.org/youth-athletics/",
+    "newURL": "https://www.georgetowntexas.gov/parks/programs/athletics/youth_athletics.php"
+  },
+  {
+    "id": 24,
+    "oldURL": "https://parks.georgetown.org/san-gabriel-park/",
+    "newURL": "https://georgetowntexas.gov/business_detail_T22_R105.php"
+  },
+  {
+    "id": 25,
+    "oldURL": "https://parks.georgetown.org/programs/",
+    "newURL": "https://www.georgetowntexas.gov/parks/programs"
+  },
+  {
+    "id": 26,
+    "oldURL": "https://parks.georgetown.org/camp/",
+    "newURL": "https://georgetowntexas.gov/parks/programs/camps"
+  },
+  {
+    "id": 27,
+    "oldURL": "https://parks.georgetown.org/community-center/",
+    "newURL": "https://www.georgetowntexas.gov/parks/facilities_and_rentals/georgetown_community_center.php"
+  },
+  {
+    "id": 28,
+    "oldURL": "https://parks.georgetown.org/recreation-center-memberships/",
+    "newURL": "https://georgetowntexas.gov/parks/facilities_and_rentals/georgetown_recreation_center/memberships.php"
+  },
+  {
+    "id": 30,
+    "oldURL": "https://parks.georgetown.org/gareypark/visit",
+    "newURL": "https://georgetowntexas.gov/parks/garey_park/visit/index.php"
+  },
+  {
+    "id": 31,
+    "oldURL": "https://parks.georgetown.org/georgetown-tennis-center/",
+    "newURL": "https://georgetowntexas.gov/parks/facilities_and_rentals/georgetown_tennis_center"
+  },
+  {
+    "id": 32,
+    "oldURL": "https://parks.georgetown.org/pools-and-splash-pads/",
+    "newURL": "https://georgetowntexas.gov/parks/facilities_and_rentals/pools_splash_pads"
+  },
+  {
+    "id": 33,
+    "oldURL": "https://parks.georgetown.org/parks-and-trails/",
+    "newURL": "https://www.georgetowntexas.gov/parks/parks_and_trails/trails.php"
+  },
+  {
+    "id": 34,
+    "oldURL": "https://parks.georgetown.org/adult-athletics/",
+    "newURL": "https://www.georgetowntexas.gov/parks/programs/athletics/adult_athletics.php"
+  },
+  {
+    "id": 35,
+    "oldURL": "https://parks.georgetown.org/pickleball/",
+    "newURL": "https://www.georgetowntexas.gov/parks/programs/pickleball.php"
+  },
+  {
+    "id": 36,
+    "oldURL": "https://parks.georgetown.org/gareypark/rentals/pavilions",
+    "newURL": "https://georgetowntexas.gov/parks/facilities_and_rentals/park_pavilions"
+  },
+  {
+    "id": 38,
+    "oldURL": "https://parks.georgetown.org/pool-admission/",
+    "newURL": "https://www.georgetowntexas.gov/parks/facilities_and_rentals/pools_splash_pads/pool_admission.php"
+  },
+  {
+    "id": 39,
+    "oldURL": "https://parks.georgetown.org/cupids-chase/",
+    "newURL": "https://georgetowntexas.gov/business_detail_T22_R178.php"
+  },
+  {
+    "id": 40,
+    "oldURL": "https://parks.georgetown.org/included-group-fitness/",
+    "newURL": "https://www.georgetowntexas.gov/parks/programs/fitness_wellness/group_fitness.php"
+  },
+  {
+    "id": 41,
+    "oldURL": "https://pd.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/public_safety/police"
+  },
+  {
+    "id": 42,
+    "oldURL": "https://fire.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/public_safety/fire"
+  },
+  {
+    "id": 43,
+    "oldURL": "https://fire.georgetown.org/rank-structure/",
+    "newURL": "https://www.georgetowntexas.gov/public_safety/fire/fire_administration/rank_structure.php"
+  },
+  {
+    "id": 44,
+    "oldURL": "https://pdcareers.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/public_safety/police/careers"
+  },
+  {
+    "id": 45,
+    "oldURL": "https://pd.georgetown.org/public-information/",
+    "newURL": "https://www.georgetowntexas.gov/public_safety/police/about_us/records.php"
+  },
+  {
+    "id": 46,
+    "oldURL": "https://firecareers.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/public_safety/fire/georgetown_fire_department_careers/index.php"
+  },
+  {
+    "id": 47,
+    "oldURL": "https://gus.georgetown.org/customercare/paying-your-bill/",
+    "newURL": "https://www.georgetowntexas.gov/utilities/customer_care/index.php"
+  },
+  {
+    "id": 48,
+    "oldURL": "https://gus.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/utilities"
+  },
+  {
+    "id": 50,
+    "oldURL": "https://gus.georgetown.org/outages/",
+    "newURL": "https://georgetowntexas.gov/utilities/customer_care/utility_outages"
+  },
+  {
+    "id": 51,
+    "oldURL": "https://gus.georgetown.org/water/",
+    "newURL": "https://georgetowntexas.gov/utilities/water"
+  },
+  {
+    "id": 52,
+    "oldURL": "https://recycle.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/utilities/garbage_and_recycling"
+  },
+  {
+    "id": 53,
+    "oldURL": "https://recycle.georgetown.org/schedules/",
+    "newURL": "https://www.georgetowntexas.gov/utilities/garbage_and_recycling/what_are_my_collection_days.php"
+  },
+  {
+    "id": 54,
+    "oldURL": "https://gus.georgetown.org/water/",
+    "newURL": "https://georgetowntexas.gov/utilities/water"
+  },
+  {
+    "id": 55,
+    "oldURL": "https://gus.georgetown.org/electric/",
+    "newURL": "https://georgetowntexas.gov/utilities/electric"
+  },
+  {
+    "id": 57,
+    "oldURL": "https://gus.georgetown.org/water/rebatesandprograms/",
+    "newURL": "https://georgetowntexas.gov/utilities/water/conservation_programs"
+  },
+  {
+    "id": 58,
+    "oldURL": "https://recycle.georgetown.org/household-hazardous-waste/",
+    "newURL": "https://www.georgetowntexas.gov/utilities/garbage_and_recycling/residential_services/household_hazardous_waste.php"
+  },
+  {
+    "id": 59,
+    "oldURL": "https://recycle.georgetown.org/bulk-waste-disposal/",
+    "newURL": "https://georgetowntexas.gov/utilities/garbage_and_recycling/residential_services/bulky_waste_disposal.php"
+  },
+  {
+    "id": 60,
+    "oldURL": "https://recycle.georgetown.org/community-collection-event/",
+    "newURL": "https://georgetowntexas.gov/utilities/garbage_and_recycling/community_collection_events.php"
+  },
+  {
+    "id": 61,
+    "oldURL": "https://gus.georgetown.org/customer-care/rates/",
+    "newURL": "https://georgetowntexas.gov/utilities/customer_care/utility_rates"
+  },
+  {
+    "id": 62,
+    "oldURL": "https://gus.georgetown.org/water/pledge/",
+    "newURL": "https://georgetowntexas.gov/utilities/water/conservation_programs/become_a_super_water_saver.php"
+  },
+  {
+    "id": 63,
+    "oldURL": "https://gus.georgetown.org/water/resources/",
+    "newURL": "https://georgetowntexas.gov/utilities/water/resources/water_utility_reports/index.php"
+  },
+  {
+    "id": 81,
+    "oldURL": "https://georgetown.org/jobs/",
+    "newURL": "https://georgetowntexas.gov/human_resources/careers/"
+  },
+  {
+    "id": 82,
+    "oldURL": "https://mainstreet.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/development_services/main_street/index.php"
+  },
+  {
+    "id": 84,
+    "oldURL": "https://mainstreet.georgetown.org/labor-day-sidewalk-sale/",
+    "newURL": "https://georgetowntexas.gov/development_services/main_street/labor_day_sidewalk_sale_.php"
+  },
+  {
+    "id": 85,
+    "oldURL": "https://gus.georgetown.org/electric/streetlight-outage-reporting/",
+    "newURL": "https://www.georgetowntexas.gov/utilities/customer_care/utility_outages/street_light_outages.php"
+  },
+  {
+    "id": 86,
+    "oldURL": "https://invest.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/development_services/economic_development/index.php"
+  },
+  {
+    "id": 87,
+    "oldURL": "https://parks.georgetown.org/ioof-cemetery/",
+    "newURL": "https://www.georgetowntexas.gov/business_detail_T22_R60.php"
+  },
+  {
+    "id": 88,
+    "oldURL": "https://parks.georgetown.org/citizens-memorial-garden-cemetery/",
+    "newURL": "https://www.georgetowntexas.gov/business_detail_T22_R59.php"
+  },
+  {
+    "id": 89,
+    "oldURL": "https://agendas.georgetown.org/",
+    "newURL": "https://www.georgetowntexas.gov/government/city_council/meeting_agendas/agendas.php"
+  },
+  {
+    "id": 90,
+    "oldURL": "https://georgetown.org/agendas/",
+    "newURL": "https://www.georgetowntexas.gov/government/city_council/meeting_agendas/agendas.php"
+  },
+  {
+    "id": 91,
+    "oldURL": "https://poppy.georgetown.org/",
+    "newURL": "https://visit.georgetown.org/events/red_poppy_festival/index.php"
+  },
+  {
+    "id": 92,
+    "oldURL": "https://artcenter.georgetown.org/",
+    "newURL": "https://visit.georgetown.org/georgetown_art_center/index.php"
+  },
+  {
+    "id": 93,
+    "oldURL": "https://arts.georgetown.org/",
+    "newURL": "https://visit.georgetown.org/arts/index.php"
+  },
+  {
+    "id": 94,
+    "oldURL": "https://swirl.georgetown.org/",
+    "newURL": "https://visit.georgetown.org/events/georgetown_swirl/index.php"
+  },
+  {
+    "id": 95,
+    "oldURL": "https://RedPoppyFestival.com/",
+    "newURL": "https://visit.georgetown.org/events/red_poppy_festival/index.php"
+  },
+  {
+    "id": 96,
+    "oldURL": "https://poppy.georgetown.org/schedule-landing-page/",
+    "newURL": "https://visit.georgetown.org/events/red_poppy_festival/schedules/index.php"
+  },
+  {
+    "id": 97,
+    "oldURL": "https://poppy.georgetown.org/parking-shuttle-and-detours/",
+    "newURL": "https://visit.georgetown.org/events/red_poppy_festival/plan_your_visit/parking_shuttle.php"
+  },
+  {
+    "id": 98,
+    "oldURL": "https://mainstreet.georgetown.org/shop-small/",
+    "newURL": "https://visit.georgetown.org/business_detail_T27_R1146.php"
+  },
+  {
+    "id": 99,
+    "oldURL": "https://arts.georgetown.org/southmainartfest/",
+    "newURL": "https://visit.georgetown.org/arts/smaf.php"
+  },
+  {
+    "id": 100,
+    "oldURL": "https://finance.georgetown.org/accounts-receivable-payment/",
+    "newURL": "https://www.georgetowntexas.gov/government/finance_and_purchasing/doing_business_with_the_city/accounts_receivable_payment.php"
+  },
+  {
+    "id": 101,
+    "oldURL": "https://ada.georgetown.org/",
+    "newURL": "https://georgetowntexas.gov/government/city_management/americans_with_disabilities_act.php"
+  },
+  {
+    "id": 102,
+    "oldURL": "https://gus.georgetown.org/conservation-programs/",
+    "newURL": "https://www.georgetowntexas.gov/utilities/water/conservation_programs"
+  }
+]

@@ -1,0 +1,32 @@
+.navBar {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(151, 39, 44);
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin: 0 2rem 0 0;
+}
+
+.sml {
+  padding: 0.5rem;
+  margin: 0.5rem 0.25rem;
+  background: rgb(182, 101, 103);
+  border-radius: 50%;
+}
+
+@media only screen and (min-width: 992px) {
+  #img {
+    max-width: 35%;
+  }
+}
+
+#noRedirect {
+  display: none;
+}
+
+.custContainer {
+  margin: 6rem auto;
+  position: relative;
+  z-index: 1500;
+}
